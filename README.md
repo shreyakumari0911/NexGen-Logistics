@@ -303,17 +303,6 @@ Contributions welcome! Please:
 
 ---
 
-## 📄 License
-
-MIT License - see LICENSE file for details
-
----
-
-## 👨‍💼 Author
-
-**NexGen Logistics Team**
-
----
 
 ## 🙏 Acknowledgments
 
