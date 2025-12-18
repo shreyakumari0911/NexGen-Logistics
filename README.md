@@ -4,6 +4,8 @@
 
 A cutting-edge **logistics optimization platform** powered by machine learning, solving **4 critical business problems** with predictive delay forecasting and prescriptive recommendations.
 
+My app-> https://nexgen-logistics-zkpwcno23ggugh53vgdyby.streamlit.app/
+
 ---
 
 ## 🏆 Problem Areas Solved (4 of 8)
