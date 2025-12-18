@@ -292,25 +292,5 @@ Your data must include:
 | Fuel_Cost | Numeric | Fuel cost for route |
 | Priority | Categorical | Express/Standard/Economy |
 
----
 
-## 🤝 Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/YourFeature`)
-3. Commit changes (`git commit -m 'Add YourFeature'`)
-4. Push to branch (`git push origin feature/YourFeature`)
-5. Open Pull Request
-
----
-
-
-## 🙏 Acknowledgments
-
-Built with ❤️ using:
-- [Streamlit](https://streamlit.io) - App framework
-- [Scikit-learn](https://scikit-learn.org) - ML library
-- [Plotly](https://plotly.com) - Visualization
-- [Pandas](https://pandas.pydata.org) - Data manipulation
 
