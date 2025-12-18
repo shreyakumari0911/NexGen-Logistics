@@ -315,15 +315,6 @@ MIT License - see LICENSE file for details
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- 📧 Email: support@nexgenlogistics.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/nexgen-logistics/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/nexgen-logistics/discussions)
-
----
-
 ## 🙏 Acknowledgments
 
 Built with ❤️ using:
@@ -332,6 +323,3 @@ Built with ❤️ using:
 - [Plotly](https://plotly.com) - Visualization
 - [Pandas](https://pandas.pydata.org) - Data manipulation
 
----
-
-**Ready to transform logistics with AI? 🚀**
